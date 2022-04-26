@@ -27,7 +27,6 @@ You should be able to:
 - Use javaScript or jQuery for addding interactivity to the calculator.
 - Use Custom CSS to add a cool color scheme to your calculator project.
 
-<<<<<<< HEAD
 
 ### Links
 
@@ -55,7 +54,6 @@ const display(val)=()=>{
 - Website - [Gichure Maina](https://www.linkedin.com/in/gichure-maina-a45aab202/)
 - Frontend Mentor - [@KyleGichez](https://www.frontendmentor.io/profile/KyleGichez)
 - Twitter - [@KyleGichez](https://www.twitter.com/KyleGichez)
-=======
 # Simple-Calculator-Project
 This is a simple calculator project that I coded to enhance my JavaScript coding skills through implementing the user interface and the business logic of the calculator.
 I have coded this calculator project using HTMl, CSS and JavaScript. Let's have a look at my work! :wave:
@@ -90,7 +88,6 @@ You should be able to:
 ![] (./calculator.png)
 
 =======
->>>>>>> 5c30dceefb5156cc37877c467ef0d165101d0ef0
 ### Links
 
 - Solution URL: [GitHub](https://github.com/KyleGichez/Simple-Calculator-Project)
