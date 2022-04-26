@@ -18,7 +18,7 @@ To install this project in your local repository / working environment, you need
 git clone https://github.com/KyleGichez/Simple-Calculator-Project
 ````
 After cloning this project repository into your local machine, extract the files in the folder to access the code.
-Yes! You did that? Let's get started :laptop:
+Yes! You did that? Let's get started: 🚶‍♂️ 
 
 ### The challenge
 
