@@ -1,54 +1,57 @@
 # Simple-Calculator-Project
-This is a simple calculator project that I coded to enhance my JavaScript coding skills in implementing the logic of the calculator.
-# Techbiz Corporate Systems
-
-This is an E-Commerce Website that deals with the sale of Computers, laptops, desktops and Tablets of all prices and specifications  at a very fair and affordable price to the customers.
+This is a simple calculator project that I coded to enhance my JavaScript coding skills in implementing the logic of the calculator.:joy:
+I have coded this calculator project using HTMl, CSS and JavaScript. Let's have a look at my work! :wave:
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
+To install this project in your local repository / working environment, you need to clone this repository using git clone commandline:
+````Using git clone
+git clone https://github.com/KyleGichez/Simple-Calculator-Project
+````
+After cloning this project repository into your local machine, extract the files in the folder to access the code.
+Yes! You did that? Let's get started :laptop:
 
 ### The challenge
 
 You should be able to:
 
-- Build the E-commerce website using Bootstrap 5 components for the layout.
-- Use javaScript and jQuery for addding interactivity to the website .
+- Build the User Interface of the calculator.
+- Use javaScript or jQuery for addding interactivity to the calculator.
+- Use Custom CSS to add a cool color scheme to your calculator project.
+
+### Screenshot
+![screenshot] ./static/image/calculator.png)
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/KyleGichez/my-online-shop)
-- Live Site URL: [Netlify](https://techbiz-corporate-systems.netlify.app/)
+- Solution URL: [GitHub](https://github.com/KyleGichez/Simple-Calculator-Project)
+- Live Site URL: [GitHub pages](https://kylegichez.github.io/Simple-Calculator-Project/)
 
 ## My process
 
 ### Built with
 
-- Bootstrap 5 Components for the website layout.
-- [Bootsrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Bootstrap 5 Documentation.
+- Custom CSS
+- HTML5 Tables
+- JavaScript
 
 ### What I learned
 
-I have learned how to build an E-commerce website using bootstrap 5 components such as cards, list-groups, badges, accordions, modals etc.
-
-```Bootstrap
-.bg-primary - bootstrap utility class for blue background
-.d-none .d-sm-block - bootstrap utility class for hiding information on extra small screen sizes only.
+I have learned how to build a simple calculator project using HTML, CSS and javaScript technologies. I have learned how to separate the Business Logic from the User Interface. I have learned and practiced writing javaScript arrow functions for performing the arithmetic operations.
+```javaScript
+const display(val)=()=>{
+  document.getElementById("result").value += val;
+ }
 ```
-
-### Continued development
-
-I am still learning how to use the bootsrap 5 components and also implementing intuitive designs for the website layouts.
-I am also learning how to use material design / Material UI for creating intuitive designs and also jQuery for enhancing website interactivity.
-
 ## Author
 
 - Website - [Gichure Maina](https://www.linkedin.com/in/gichure-maina-a45aab202/)
