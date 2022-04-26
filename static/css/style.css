@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background:linear-gradient(90deg, rgba(76,226,197,1) 0%, rgba(230,33,238,1) 35%, rgba(0,212,255,1) 100%);
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Rowdies', cursive;
+}
+
+h1 {
+    font-weight: 700;
+    color: aqua;
+    text-align: center;
+    margin-bottom: 3px;
+}
+
+.container {
+    align-self: center;
+    box-shadow: -3px -1px 17px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -3px -1px 17px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -3px -1px 17px 0px rgba(0, 0, 0, 0.75);
+    width:40%;
+    background:linear-gradient(90deg, rgba(76,226,197,1) 0%, rgba(230,33,238,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius:11px;
+    margin:10px auto;
+    padding:10px;
+}
+
+table{
+    width:100%;
+}
+
+.screen{
+    width:95%;
+    background-color:#f4f5e0;
+    margin:auto;
+    margin-bottom:5px;
+    border:2px solid blue;
+    border-radius:3px;
+    padding:5px;
+    font-weight:700;
+}
+
+.number{
+    width:100%;
+    cursor:pointer;
+    border:1px outset blue;
+    border-radius:8px;
+    background:linear-gradient(90deg, rgba(76,226,197,1) 0%, rgba(230,33,238,1) 35%, rgba(0,212,255,1) 100%);
+    margin-bottom:5px;
+    padding:5px;
+    font-weight:600;
+}
+
+.decimal{
+    width:100%;
+    background:linear-gradient(90deg, rgba(76,226,197,1) 0%, rgba(230,33,238,1) 35%, rgba(0,212,255,1) 100%);
+    cursor:pointer;
+    border:1px outset blue;
+    border-radius:8px;
+    margin-bottom:5px;
+    padding:5px;
+    font-weight:600;
+}
+
+.operator{
+    background: linear-gradient(90deg, rgba(91,226,76,1) 0%, rgba(40,33,238,1) 35%, rgba(0,255,4,1) 100%);
+    width:100%;
+    border:1px inset blue;
+    border-radius:8px;
+    cursor:pointer;
+    margin-bottom:5px;
+    padding:5px;
+    font-weight:600;
+}
+
+.clear{
+    width:100%;
+    border:1px inset blue;
+    border-radius:8px;
+    cursor:pointer;
+    margin:auto;
+    margin-bottom:5px;
+    background-color: red;
+    padding:5px;
+    font-weight:700;
+}
+
+.equals{
+    width:100%;
+    border:1px inset blue;
+    border-radius:8px;
+    cursor:pointer;
+    margin:auto;
+    margin-bottom:5px;
+    background-color:orange;
+    padding:5px;
+    font-weight:700;
+}
+
+input[type="button"]:hover{
+    background: linear-gradient(90deg, rgba(91,226,76,1) 0%, rgba(40,33,238,1) 35%, rgba(0,255,4,1) 100%);
+}
+
+input[class="operator"]:hover{
+    background:linear-gradient(90deg, rgba(76,226,197,1) 0%, rgba(230,33,238,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+#icon{
+    color:purple;
+    cursor:pointer;
+}
