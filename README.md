@@ -29,7 +29,7 @@ You should be able to:
 - Use Custom CSS to add a cool color scheme to your calculator project.
 
 ### Screenshot
-![] ./static/image/calculator.png)
+![] ./calculator.png)
 
 ### Links
 
