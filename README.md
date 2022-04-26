@@ -84,10 +84,6 @@ You should be able to:
 - Use javaScript or jQuery for addding interactivity to the calculator.
 - Use Custom CSS to add a cool color scheme to your calculator project.
 
-### Screenshot
-![] (./calculator.png)
-
-=======
 ### Links
 
 - Solution URL: [GitHub](https://github.com/KyleGichez/Simple-Calculator-Project)
