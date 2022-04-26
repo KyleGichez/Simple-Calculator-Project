@@ -35,7 +35,7 @@ table{
 }
 
 .screen{
-    width:95%;
+    width:90%;
     background-color:#f4f5e0;
     margin:auto;
     margin-bottom:5px;
@@ -114,3 +114,4 @@ input[class="operator"]:hover{
     color:purple;
     cursor:pointer;
 }
+
