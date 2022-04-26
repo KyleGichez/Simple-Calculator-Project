@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simple-Calculator-Project
 This is a simple calculator project that I coded to enhance my JavaScript coding skills through implementing the user interface and the business logic of the calculator.
 I have coded this calculator project using HTMl, CSS and JavaScript. Let's have a look at my work! :wave:
