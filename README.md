@@ -6,7 +6,6 @@ I have coded this calculator project using HTMl, CSS and JavaScript. Let's have 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -28,8 +27,6 @@ You should be able to:
 - Use javaScript or jQuery for addding interactivity to the calculator.
 - Use Custom CSS to add a cool color scheme to your calculator project.
 
-### Screenshot
-![] (./calculator.png)
 
 ### Links
 
