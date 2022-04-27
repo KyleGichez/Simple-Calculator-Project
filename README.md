@@ -48,6 +48,21 @@ I have learned how to build a simple calculator project using HTML, CSS and java
 const display(val)=()=>{
   document.getElementById("result").value += val;
  }
+
+ const clearScreen = () =>{
+    document.getElementById("result").value = "";
+}
+
+```
+I have also learned how to use the updated ES6 updated keywords for declaring variables.ie the let and const keyword
+```javaScript
+const solve = () =>{
+    let x = document.getElementById("result").value;
+    let y = eval(x);
+    document.getElementById("result").value = y;
+}
+
+
 ```
 ## Author
 
